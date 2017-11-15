@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2012\Projects\TAFE_Prog2\InteractiveStory\obj\Debug\InteractiveStory.csprojResolveAssemblyReference.cache
+C:\Users\Jon\Documents\Visual Studio 2012\Projects\TAFE_Prog2\InteractiveStory\bin\Debug\Crypt Descent.exe.config
+C:\Users\Jon\Documents\Visual Studio 2012\Projects\TAFE_Prog2\InteractiveStory\bin\Debug\Crypt Descent.exe
+C:\Users\Jon\Documents\Visual Studio 2012\Projects\TAFE_Prog2\InteractiveStory\bin\Debug\Crypt Descent.pdb
+C:\Users\Jon\Documents\Visual Studio 2012\Projects\TAFE_Prog2\InteractiveStory\obj\Debug\Crypt Descent.exe
+C:\Users\Jon\Documents\Visual Studio 2012\Projects\TAFE_Prog2\InteractiveStory\obj\Debug\Crypt Descent.pdb
